@@ -4,6 +4,6 @@ Assignment: Build a simple Android application of calculator. (You need not crea
 
 Minimum requirements for the application:
 
-  Use Activity
-  Use Edit - Text
-  Use Buttons
+<br>Use Activity</br>
+<br>Use Edit - Text</br>
+<br> Use Buttons</br>
